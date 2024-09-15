@@ -1,2 +1,2 @@
-# web_accessibility_icon_repos
+# Web Accessibility Icons repos
 Mapping web accessibility icon repositories
